@@ -42,35 +42,47 @@
 
 :scroll: [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
-:scroll: [Funciones]()
+:scroll: [Funciones](https://www.w3schools.com/js/js_arrow_function.asp)
 
-:crossed_swords: [Algoritmos básicos 3]()
+:crossed_swords: [Bikram]()
 
-:shinto_shrine: [Funciones dentro de arrays]()
+:shinto_shrine: [Chauchat](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat)
 
-:european_castle: [90 días de dolor]()
+:european_castle: [Bikram]()
 
 ### Miércoles
 
-:scroll: [Objetos]()
+:scroll: [Objetos](https://www.w3schools.com/js/js_objects.asp)
 
-:scroll: [Mezclando objetos y arrays]()
+:scroll: [Métodos de texto](https://www.w3schools.com/js/js_string_methods.asp)
 
-:crossed_swords: [Algoritmos básicos 3]()
+:scroll: [Métodos de números](https://www.w3schools.com/js/js_number_methods.asp)
 
-:shinto_shrine: [Imprime una colección con string literal]()
+:scroll: [Métodos de arrays](https://www.w3schools.com/js/js_array_methods.asp)
 
-:european_castle: [90 días de dolor]()
+:crossed_swords: [Bikram]()
+
+:shinto_shrine: [Constantino Romero](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero) :lion:
+
+:european_castle: [Bikram]()
 
 ### Jueves
 
-:scroll: [DOM y BOM]()
+:scroll: [DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
-:scroll: [Eventos]()
+:scroll: [Métodos del DOM](https://www.w3schools.com/js/js_htmldom_methods.asp)
+
+:scroll: [El objeto _document_](https://www.w3schools.com/js/js_htmldom_document.asp)
+
+:scroll: [Elementos del DOM](https://www.w3schools.com/js/js_htmldom_elements.asp)
+
+:scroll: [Eventos](https://www.w3schools.com/js/js_htmldom_events.asp)
+
+:scroll: [Escuchadores de eventos](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
 :crossed_swords: [La escopeta de maquillaje]()
 
-:shinto_shrine: [Scrapping de un html con API DOM]()
+:shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
 
 :european_castle: [Quiz]()
 
