@@ -26,7 +26,7 @@
 
 :scroll: Condicionales [If Else](https://www.w3schools.com/js/js_if_else.asp)
 
-:unicorn: Condicionales [Switch](https://www.w3schools.com/js/js_switch.asp)
+:scroll: :unicorn: Condicionales [Switch](https://www.w3schools.com/js/js_switch.asp)
 
 :scroll: Bucles [For](https://www.w3schools.com/js/js_loop_for.asp) / [While](https://www.w3schools.com/js/js_loop_while.asp)
 
