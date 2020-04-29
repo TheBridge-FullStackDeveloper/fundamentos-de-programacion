@@ -6,7 +6,7 @@
 
 :scroll: - Teoría
 
-:cherries: - Pair Programming
+:crossed_swords: - Pair Programming
 
 :shinto_shrine: - Kata
 
@@ -22,58 +22,60 @@
 
 ### Lunes
 
-:scroll: - [Variables]()
+:scroll: Variables [Let](https://www.w3schools.com/js/js_let.asp) / [Const](https://www.w3schools.com/js/js_const.asp)
 
-:scroll: - [Condicionales]()
+:scroll: Condicionales [If Else](https://www.w3schools.com/js/js_if_else.asp)
 
-:scroll: - [Bucles]()
+:unicorn: Condicionales [Switch](https://www.w3schools.com/js/js_switch.asp)
 
-:scroll: - [Operadores]()
+:scroll: Bucles [For](https://www.w3schools.com/js/js_loop_for.asp) / [While](https://www.w3schools.com/js/js_loop_while.asp)
 
-:cherries: - [Algoritmos básicos]()
+:scroll: Operadores [Asignación](https://www.w3schools.com/js/js_assignment.asp) / [Comparación](https://www.w3schools.com/js/js_comparisons.asp)
 
-:shinto_shrine: - [FizzBuzz+]()
+:crossed_swords: [Bikram]()
 
-:european_castle: - [90 días de dolor]()
+:shinto_shrine: [FizzBuzz+]()
+
+:european_castle: [Bikram]()
 
 ###  Martes
 
-:scroll: - [Arrays]()
+:scroll: [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
-:scroll: - [Funciones]()
+:scroll: [Funciones]()
 
-:cherries: - [Algoritmos básicos 3]()
+:crossed_swords: [Algoritmos básicos 3]()
 
-:shinto_shrine: - [Funciones dentro de arrays]()
+:shinto_shrine: [Funciones dentro de arrays]()
 
-:european_castle: - [90 días de dolor]()
+:european_castle: [90 días de dolor]()
 
 ### Miércoles
 
-:scroll: - [Objetos]()
+:scroll: [Objetos]()
 
-:scroll: - [Mezclando objetos y arrays]()
+:scroll: [Mezclando objetos y arrays]()
 
-:cherries: - [Algoritmos básicos 3]()
+:crossed_swords: [Algoritmos básicos 3]()
 
-:shinto_shrine: - [Imprime una colección con string literal]()
+:shinto_shrine: [Imprime una colección con string literal]()
 
-:european_castle: - [90 días de dolor]()
+:european_castle: [90 días de dolor]()
 
 ### Jueves
 
-:scroll: - [DOM y BOM]()
+:scroll: [DOM y BOM]()
 
-:scroll: - [Eventos]()
+:scroll: [Eventos]()
 
-:cherries: - [La escopeta de maquillaje]()
+:crossed_swords: [La escopeta de maquillaje]()
 
-:shinto_shrine: - [Scrapping de un html con API DOM]()
+:shinto_shrine: [Scrapping de un html con API DOM]()
 
-:european_castle: - [Quiz]()
+:european_castle: [Quiz]()
 
 ### Viernes
 
 :scroll: - [Validación de formularios]()
 
-:european_castle: :cherries: - [Quiz]()
+:european_castle: :crossed_swords: - [Quiz]()
