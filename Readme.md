@@ -80,6 +80,10 @@
 
 :scroll: [Escuchadores de eventos](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
+:scroll: [Nodos](https://www.w3schools.com/js/js_htmldom_nodes.asp)
+
+:scroll: [Navegación](https://www.w3schools.com/js/js_htmldom_navigation.asp)
+
 :crossed_swords: [La escopeta de maquillaje]()
 
 :shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
