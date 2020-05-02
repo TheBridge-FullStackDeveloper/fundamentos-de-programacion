@@ -28,11 +28,11 @@
 
 :scroll: Operadores [Asignación](https://www.w3schools.com/js/js_assignment.asp) / [Comparación](https://www.w3schools.com/js/js_comparisons.asp)
 
-:crossed_swords: [Bikram]()
+:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-var-bucles-condicionales)
 
 :shinto_shrine: [FizzBuzz+](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz)
 
-:european_castle: [Bikram]()
+:european_castle: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-var-bucles-condicionales)
 
 ###  Martes
 
@@ -56,11 +56,11 @@
 
 :scroll: [Métodos de arrays](https://www.w3schools.com/js/js_array_methods.asp)
 
-:crossed_swords: [Bikram]()
+:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-objetos)
 
 :shinto_shrine: [Constantino Romero](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero) :lion:
 
-:european_castle: [Bikram]()
+:european_castle: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-objetos)
 
 ### Jueves
 
