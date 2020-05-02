@@ -14,10 +14,6 @@
 
 :gear: - Instalación
 
-## Requisitos
-
-:gear: - []()
-
 ## Precurso - Semana fundamentos de la programación
 
 ### Lunes
@@ -34,7 +30,7 @@
 
 :crossed_swords: [Bikram]()
 
-:shinto_shrine: [FizzBuzz+]()
+:shinto_shrine: [FizzBuzz+](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz)
 
 :european_castle: [Bikram]()
 
@@ -44,11 +40,11 @@
 
 :scroll: [Funciones](https://www.w3schools.com/js/js_arrow_function.asp)
 
-:crossed_swords: [Bikram]()
+:crossed_swords: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-array-funciones)
 
 :shinto_shrine: [Chauchat](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat)
 
-:european_castle: [Bikram]()
+:european_castle: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-array-funciones)
 
 ### Miércoles
 
