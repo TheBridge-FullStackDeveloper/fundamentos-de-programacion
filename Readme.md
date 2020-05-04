@@ -80,7 +80,7 @@
 
 :scroll: [Navegación](https://www.w3schools.com/js/js_htmldom_navigation.asp)
 
-:crossed_swords: [La escopeta de maquillaje]()
+:crossed_swords: [La varita mágica](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica)
 
 :shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
 
