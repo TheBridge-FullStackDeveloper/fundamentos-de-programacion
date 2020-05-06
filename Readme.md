@@ -88,6 +88,14 @@
 
 ### Viernes
 
-:scroll: - [Validación de formularios]()
+:space_invader: [Ejemplo de ayuda](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-ejemplos-validacion-formularios)
 
-:european_castle: :crossed_swords: - [Quiz]()
+:scroll: [Validación de formularios](https://www.w3schools.com/js/js_validation.asp)
+
+:scroll: [MDN Validación de formularios](https://developer.mozilla.org/es/docs/Learn/HTML/Forms/Validacion_formulario_datos)
+
+:scroll: [API de formularios](https://www.w3schools.com/js/js_validation_api.asp)
+
+:scroll: [HTMLFormElements](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement)
+
+:european_castle: :crossed_swords: - [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
