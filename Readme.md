@@ -84,7 +84,7 @@
 
 :shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
 
-:european_castle: [Quiz]()
+:european_castle: [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
 
 ### Viernes
 
